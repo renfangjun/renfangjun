@@ -1,2 +1,2 @@
 ![renfangjun's Github stats](https://github-readme-stats.vercel.app/api?username=renfangjun&show_icons=true)
-https://github-readme-stats.vercel.app/api/wakatime?username=1648029458&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28Last+24+Hours%29&layout=compact
+![renfangjun's Github waktime](https://github-readme-stats.vercel.app/api/wakatime?username=1648029458&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28Last+24+Hours%29&layout=compact)
