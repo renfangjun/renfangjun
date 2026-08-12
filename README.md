@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 任方俊 (Fangjun Ren)</h1>
+<h1 align="center">Hi 👋, I'm Fangjun Ren</h1>
 <h3 align="center">全栈开发者 · 专注 AI 应用</h3>
 
 <p align="center">
