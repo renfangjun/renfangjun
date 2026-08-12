@@ -51,18 +51,6 @@
 | [FJ-Agent](https://github.com/renfangjun/FJ-Agent) | AI 超级智能体（恋爱大师），早期阶段 |
 | [yu-picture-backend](https://github.com/renfangjun/yu-picture-backend) | 智能协同云图库后端 |
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renfangjun&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renfangjun&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=1648029458&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev%20Stats%20(Last%2024%20Hours)&layout=compact" alt="Wakapi Stats" />
-  <img src="https://wakapi.dev/api/badge/1648029458/interval:today?label=today" alt="Wakapi Today" />
-</p>
-
----
 
 <p align="center">⭐ 来自 <a href="https://github.com/renfangjun">renfangjun</a> · Built with ☕ and code</p>
