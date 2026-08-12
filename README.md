@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm [你的名字 / Your Name]</h1>
-<h3 align="center">[一句专业标签，例如：Full-Stack Developer · Web & AI Enthusiast]</h3>
+<h1 align="center">Hi 👋, I'm 任方俊 (Fangjun Ren)</h1>
+<h3 align="center">全栈开发者 · 专注 AI 应用</h3>
 
 <p align="center">
   <a href="https://renfangjun.github.io/fangjun-blog/">
     <img src="https://img.shields.io/badge/Blog-Visit-ff6a00?style=for-the-badge" alt="Blog" />
   </a>
-  <a href="mailto:[你的邮箱]">
+  <a href="mailto:fangjun9898@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-2ea043?style=for-the-badge" alt="Email" />
   </a>
   <!-- 如需其他社交，取消注释并替换链接：
@@ -18,12 +18,12 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 **[当前角色，如：计算机科学学生 / 前端工程师 / 全栈开发者]** —— 专注于 **[方向，如：Web 开发 / AI 应用]**。
-- 🔭 目前正在做：**[当前项目或学习目标，如：在线判题系统 OJ 前端]**。
-- 🌱 正在学习：**[如：AI Agent 工程化 / 后端架构]**。
+- 💼 **全栈开发者** —— 专注于 **AI 应用**。
+- 🔭 目前正在做：**Agent 应用开发、大模型开发**。
+- 🌱 正在学习：**AI Agent 工程化 / 后端架构**。
 - 📝 偶尔写点技术博客：<a href="https://renfangjun.github.io/fangjun-blog/">fangjun-blog</a>。
-- ⚡ 趣味事实：**[可选，一句有意思的话]**。
-- 📫 如何找到我：**[邮箱 / 社交账号]**。
+- ⚡ 趣味事实：**放码过来**。
+- 📫 如何找到我：**fangjun9898@gmail.com**。
 
 ## 🛠 Tech Stack
 
